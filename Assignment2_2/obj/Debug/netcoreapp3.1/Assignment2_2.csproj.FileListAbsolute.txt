@@ -1,0 +1,13 @@
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.csprojAssemblyReference.cache
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.AssemblyInfoInputs.cache
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.AssemblyInfo.cs
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.csproj.CoreCompileInputs.cache
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\bin\Debug\netcoreapp3.1\Assignment2_2.exe
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\bin\Debug\netcoreapp3.1\Assignment2_2.deps.json
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\bin\Debug\netcoreapp3.1\Assignment2_2.runtimeconfig.json
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\bin\Debug\netcoreapp3.1\Assignment2_2.runtimeconfig.dev.json
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\bin\Debug\netcoreapp3.1\Assignment2_2.dll
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\bin\Debug\netcoreapp3.1\Assignment2_2.pdb
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.dll
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.pdb
+D:\Documents\c#_Projects\Assignment2_2\Assignment2_2\obj\Debug\netcoreapp3.1\Assignment2_2.genruntimeconfig.cache
